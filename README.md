@@ -1,7 +1,6 @@
-### Introduction
-AnCal is a calendar application for mobile phones with Google Android operating system.
+### AnCal
+is a calendar application for mobile phones with Google Android operating system.
 
-### Details
 AnCal stores yours appointments, tasks and notes, which you can easily add and edit. You can also set alarms for selected items and see day, week and month reports of your appointments.
 
 ### Features
@@ -15,6 +14,5 @@ AnCal stores yours appointments, tasks and notes, which you can easily add and e
 * set alarms for appointments and tasks
 * ..and many more !
 
-### Status
-
-Project has started in year 2009 and is currently not supported.
+![ancal_small1](https://user-images.githubusercontent.com/3949132/176729912-bbcfb22c-911c-484c-bbf7-c76bd5271ce8.png)
+![ancal_small6](https://user-images.githubusercontent.com/3949132/176729924-4acd79a2-ce81-48f3-8222-5e266440496b.png)
